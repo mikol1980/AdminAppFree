@@ -1,2 +1,0 @@
-# AdminAppFree
-Created with CodeSandbox
